@@ -1,0 +1,9 @@
+.venv
+.env
+__pycache__
+.vscode
+5games-main
+Lessons
+Py_Transmog
+odds.py
+percentage.py
